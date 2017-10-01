@@ -25,6 +25,7 @@ a total success.
 Necessary requirements for making this project:
 
 Book: **Assembly Language Programming and Organization of the IBM PC**
+
                                   *-written by Ytha Yu, Charles Marut*
 
 Software: `emu8086`
